@@ -11,3 +11,5 @@ Submitting the same or substantially similar work in multiple courses, either in
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course. 
 
 **Project Description:**
+
+For our Data Bootcamp project, we decided to study how the domestic housing market has evolved over the course of the last 19 years. Specifically, we wanted to take a look at changes in the demographic and economic factors related to housing price, such as the change in population and income per capita. To best analyze these relationships, we decided to consolidate the data on a county-specific level, which we believe will offer sufficient detail. 
