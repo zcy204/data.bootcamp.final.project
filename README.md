@@ -1,5 +1,5 @@
 # US Housing Market Analysis  
-# data_bootcamp_final_project
+## data_bootcamp_final_project
 
 This project was completed by **Cole Yang** in partial fulfillment of ECON-UB.0232, Data Bootcamp, Spring 2019. I certify that the NYU Stern Honor Code applies to this project. In particular, I have: 
 
